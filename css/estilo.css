@@ -1,0 +1,307 @@
+body {
+	font-family: Arial, sans-serif;
+	background-color: #ccc;
+	margin: 0;
+	
+}
+
+.banner1{
+	height: 550px;
+	background-position: right center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	border-top: 1px solid transparent;
+}
+#banner1{
+		background-image: url(../img/capa-home.jpg);
+	
+}
+.orcamento{
+	background: right yellow;
+	width: 350px;
+	height: 100px;
+	margin-left: 900px;
+	border-radius: 20px 5px;
+	border-top: 1px solid transparent;
+	box-shadow: 10px 10px 10px black;
+}
+.texto-orcamento{
+	text-align: center;
+	font-family: rial, sans-serif;
+	font-size: 24px;
+	line-height: 1.5;
+	margin: 5px;
+	margin-top: 10px;
+}
+#telefone{
+	background-image: url(../img/whatsapp.png);
+	background-repeat: no-repeat;
+	background-position: 10px;
+	font-size: 34px;
+	text-align: center;
+	margin-top: 5px;
+}
+
+#banner2_QuemSomos{
+		background-image: url(../img/bg-1.jpg);
+	
+}
+#banner3_clientes{
+		background-image: url(../img/bg-2.jpg);
+	
+}
+#banner4_servicos{
+		background-image: url(../img/bg-3.jpg);
+	
+}
+#banner4_obras {
+		background-image: url(../img/bg-4.jpg);
+	
+}
+#banner5_contatos {
+		background-image: url(../img/bg-1.jpg);
+	
+}
+.NomeEmpresa-content {
+	text-align: left;
+	margin-left: 40px;
+	font-size: 28px;
+	color: white;
+	margin-top: 100px;
+}
+.titulo-Nossa-historia {
+	
+	text-align: center;
+	margin-left: 20px;
+	font-size: 28px;
+	color: white;
+	margin-top: 150px;
+}
+.slogan {
+	text-transform: uppercase;
+	font-size: 24px;
+	margin-top: 0px;
+	line-height: 50px;
+}
+.slogan1{
+	text-align: center;
+	text-transform: uppercase;
+	font-size: 30px;
+	padding-top: 0px;
+	
+}
+.NomeEmpresa-content h1
+{
+	text-transform: uppercase;
+	font-size: 46px;
+	text-shadow: 3px 3px yellow;
+}
+.NomeEmpresa-content p{
+	background-color: rgba(0,0,0,.8);
+	display: inlin 10px;
+	border-bottom: 3px solid yellow;
+}
+
+.banner1 nav ul{
+	text-align:  left;
+	padding-top: 10px;
+	margin-left: 0px;
+	border-radius: 10px;
+}
+.banner1 nav li {
+	display: inline-block;
+	list-style: none;
+	margin-left: 2px;
+	
+}
+.banner1 nav a {
+font-family: Open sans, sans-serif;
+background: #000000;
+background: yellow;
+display: block;
+padding: 10px;
+color: black;
+font-size: 13px;
+text-decoration: none;
+text-transform: uppercase;
+letter-spacing: 2px;
+border-radius: 5px;
+}
+.banner1 nav a:hover {
+	background: rgb(0,0,0,0.3);
+	
+}
+main {
+	width: 95%;
+	margin: auto;
+	
+}
+.content-section{
+	background-color: white;
+	padding: 4px;
+	margin-top: 4px;
+	overflow: auto;
+	
+}
+
+.card{
+	width: 33%;
+	float: left;
+	box-sizing: border-box;
+}
+
+
+.card img {
+	width: 100%;
+	display: block;
+}
+.card img {
+	width: 420px;
+	height: 200px;
+	display: block;
+}
+.texto_card1{
+	text-align: justify;
+	font-family: sans-serif;
+	font-size: 14px;
+	color: white;
+	line-height: 1.5;
+	
+}
+.texto_card2{
+	text-align: justify;
+	font-family: sans-serif;
+	font-size: 14px;
+	color: white;
+	line-height: 1.5;
+	
+}
+.texto_card3{
+	text-align: justify;
+	font-family: sans-serif;
+	font-size: 14px;
+	color: white;
+	line-height: 1.5;
+}
+
+.card p {
+	background-color: black;
+	color: white;
+	margin: 0px;
+	padding: 15px;
+	letter-spacing: 1px;
+	
+}
+#border-radius{
+	background: #F0E68C;
+	width: 1000px;
+	height: 600px;
+	margin: 2px auto;
+	border-radius: 25px;
+}
+#titulo-quemsomos{
+	padding-top: 15px;
+	font-size: 20px;
+	text-align: center;
+}
+#texto-quemsomos{
+	padding-top: 100px;
+	font-size: 16px;
+	text-align: justify;
+	line-height: 1.5;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+#missao {
+	font-size: 20px;
+	text-align: center;
+}
+#visao {
+	font-size: 20px;
+	text-align: center;
+}
+#valores {
+	font-size: 20px;
+	text-align: center;
+}
+.texto-missao{
+	text-align: center;
+	line-height: 1.5;
+	font-size: 16px;
+}
+.texto-visao{
+	text-align: center;
+	line-height: 1.5;
+	font-size: 16px;
+}
+.texto-valores{
+	text-align: center;
+	line-height: 1.5;
+	font-size: 16px;
+}
+.texto-redes-sociais{
+	text-align: center;
+	line-height: 1.5;
+	font-size: 24px;
+	font-family: arial, sans-serif;
+	background-color: yellow;
+}
+.logo-redes-sociais  {
+	margin-left: 450px;
+	margin-bottom: 10px;
+}
+.formContatos {
+	
+	padding-top: 260px;
+	width: 500px;
+	height: 500px;
+	margin: 50px auto 0;
+}
+#txtNome, #txtEmail, #txtFone, #txtAssunto, #txtMensagem  {
+	background-color: #F0E68C;
+	border-radius: 10px;
+	display: block;
+	width: 100%;
+	box-sizing: border-box;
+	padding:12px;
+	font-size: 15px;
+}
+.btnEnviar{
+	margin-top: 10px;
+	width: 150px;
+	height: 30px;
+	font-size: 18px;
+	border-radius: 5px;
+	margin-left: 180px;
+}
+#legenda{
+	text-align: center;
+	font-family: Arial, sans-serif;
+	font-size: 28px;
+}
+#cidades-atendidas {
+	text-align: center;
+	font-family: Arial, sans-serif;
+	font-size: 18px;
+	margin-left: 50px;
+	line-height: 1.5;
+}
+#txt-cidades-atendidas{
+	text-align: center;
+	font-family: Arial, sans-serif;
+	font-size: 18px;
+	margin-left: 50px;
+	line-height: 1.0;
+}
+.rodapé{
+	height: 155px;
+	color: white;
+	font-size: 14px;
+	font-family: Arial, sans-serif;
+	text-align: center;
+	background-color: #6b6c68;
+	padding-top: 10px;
+	width:100%;
+	margin: auto;
+	line-height: 0.7;
+}
